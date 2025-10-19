@@ -63,7 +63,6 @@
 
 ## 📫 Connect
 - ✉️ Email: nicole140002@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/) (add your link here)  
 - 📍 Christchurch, New Zealand  
 
 ---
