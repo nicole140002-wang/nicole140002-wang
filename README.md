@@ -5,6 +5,8 @@
 💡 Skilled in **Python, R, ArcGIS, GRASS GIS, Remote Sensing, Spatial Statistics**  
 📊 Passionate about applying geospatial analytics for **urban planning, environmental monitoring, and climate resilience**
 
+---
+
 ### Skills
 - **Programming & Tools**: Python (GeoPandas, Rasterio, OSMnx, scikit-learn), R (tidyverse, glmnet, randomForest), SQL, Git, Jupyter  
 - **GIS/RS Platforms**: ArcGIS Pro, QGIS, GRASS GIS, Google Earth Engine, ENVI/ERDAS, FME  
@@ -13,6 +15,8 @@
   - Network accessibility analysis, multi-criteria suitability mapping  
   - Remote sensing classification (GEOBIA/SVM, SAM, CNN transfer learning)  
 - **Cartography**: Map design, ColorBrewer palettes, Adobe Illustrator  
+
+---
 
 ### Selected Projects
 **Student Housing Accessibility in Christchurch** (UC, 2025)  
@@ -43,10 +47,14 @@ Classified UAV imagery with GEOBIA & SVM.
 Conducted NDVI-based vegetation monitoring in Google Earth Engine.  
 Applied kriging for environmental data interpolation.  
 
+---
+
 ### Education
 - **Master of Geospatial Data Science**, University of Canterbury, NZ — *Expected Mar 2026* (GPA: 8.25/9.0)  
 - **MSc in Cartography & GIS**, Northwest University, China — *Jun 2012*  
 - **BSc in GIS**, Northwest University, China — *Jun 2009*  
+
+---
 
 ### Experience
 - **GIS Engineer, Gvitech Technologies (2013–2020, Beijing, China)**  
@@ -54,5 +62,9 @@ Applied kriging for environmental data interpolation.
 - **GIS Engineer, Eastdawn Corporation (2012–2013, Beijing, China)**  
   Supported Skyline 3D GIS deployments and workflow integration.  
 
+---
+
 ### Contact
-✉️ [nicole140002@gmail.com](mailto:nicole140002@gmail.com) · 🌐 [LinkedIn](https://linkedin.com/in/your-link) · 📍 Christchurch, New Zealand
+✉️ [nicole140002@gmail.com](mailto:nicole140002@gmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/your-link)  
+📍 Christchurch, New Zealand
