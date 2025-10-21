@@ -22,7 +22,7 @@
 - Built a **network-based walk accessibility model** using Python/Jupyter (GeoPandas, OSMnx, NetworkX).
 - Generated travel-time isochrones (to UC, schools, bus stops) and a composite **Housing Suitability map**.
 - Delivered reproducible notebooks: data harmonisation → network analysis → overlay → maps → stats → export.
-- GitHub Repository: github.com/nicole140002-wang/student-housing-accessibility-christchurch
+🔗 [Full Project Repository](https://github.com/nicole140002-wang/student-housing-accessibility-christchurch)
 
 ---
 
