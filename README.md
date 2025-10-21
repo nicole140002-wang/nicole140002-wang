@@ -14,7 +14,6 @@
   - ESDA (Moran’s I/LISA), Kriging, regression (OLS, GWR, Bayesian CAR)  
   - Network accessibility analysis, multi-criteria suitability mapping  
   - Remote sensing classification (GEOBIA/SVM, SAM, CNN transfer learning)  
-- **Cartography**: Map design, ColorBrewer palettes, Adobe Illustrator  
 
 ---
 
