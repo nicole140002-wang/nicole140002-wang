@@ -1,19 +1,31 @@
 # Hi, I'm Wenjuan (Nicole) Wang 👋
 
-🎓 Education
+## 🎓 Education
 
-University of Canterbury, Christchurch, New Zealand
-Master of Geospatial Data Science — Expected March 2026
-GPA: 8.25 / 9.0
-Relevant Coursework: Spatial Analysis (A+), Geovisual Analytics (A+), Foundations of Geospatial Data Science (A+), Big Data (B+), Data Mining (In Progress), Advanced Methods in Geospatial Data Science (In Progress), Environmental and Climate Data Analytics (In Progress), Geospatial Data Science Research (In Progress)
+**University of Canterbury**, Christchurch, New Zealand  
+*Master of Geospatial Data Science* — *Expected March 2026*  
+- GPA: **8.25 / 9.0**  
+- Relevant Coursework:  
+  - Spatial Analysis (A+)  
+  - Geovisual Analytics (A+)  
+  - Foundations of Geospatial Data Science (A+)  
+  - Big Data (B+)  
+  - Data Mining (In Progress)  
+  - Advanced Methods in Geospatial Data Science (In Progress)  
+  - Environmental & Climate Data Analytics (In Progress)  
+  - Geospatial Data Science Research (In Progress)  
 
-Northwest University, Xi’an, China
-Master of Science in Cartography & Geographic Information System — June 2012
-Capstone Thesis Project: Research on Multi-scale Landscape Pattern Extraction Method Based on HJ-1A Satellite Hyperspectral Image
+---
 
-Northwest University, Xi’an, China
-Bachelor of Science in Geographic Information System — June 2009
-GPA: 3.46 / 4.0 
+**Northwest University**, Xi’an, China  
+*Master of Science in Cartography & Geographic Information System* — *June 2012*  
+- Capstone Thesis Project: *Research on Multi-scale Landscape Pattern Extraction Method Based on HJ-1A Satellite Hyperspectral Image*  
+
+---
+
+**Northwest University**, Xi’an, China  
+*Bachelor of Science in Geographic Information System* — *June 2009*  
+- GPA: **3.46 / 4.0**
 
 ---
 
