@@ -18,33 +18,42 @@
 ---
 
 ### Selected Projects
-**Student Housing Accessibility in Christchurch** (UC, 2025)  
+
+**Student Housing Accessibility (UC, 2025)**  
 GitHub Repo: [github.com/nicole140002-wang/student-housing-accessibility-christchurch](https://github.com/nicole140002-wang/student-housing-accessibility-christchurch)  
-Network-based accessibility model in Python (GeoPandas, OSMnx, NetworkX).  
-Evaluated 15-min school, 40-min UC, and bus stop walkability.  
-Produced composite suitability maps, highlighting top housing zones (Jellie Park, Ilam, Fendalton).  
+- Built Python/Jupyter workflows (GeoPandas, OSMnx, NetworkX) for road network accessibility mapping.  
+- Created suitability maps with multi-criteria analysis, identifying top housing zones (e.g., Jellie Park, Ilam, Fendalton).  
 
-**NZ Deprivation Index Hotspot Mapping** (UC, 2025)  
+**NZ Deprivation Index Hotspot Mapping (UC, 2025)**  
 GitHub Repo: (repo coming soon)  
-Computed Moran’s I and LISA maps to analyze socio-economic inequalities in Christchurch & Wellington.  
-Identified spatial clusters to support policy-making and public health insights.  
+- Computed Moran’s I and LISA maps to analyze socio-economic inequalities in Christchurch & Wellington.  
+- Identified spatial clusters to support policy-making and public health insights.  
 
-**Housing Price Regression** (Python, 2025)  
+**Housing Price Regression (UC, 2025)**  
 GitHub Repo: (repo coming soon)  
-Applied regression models (OLS, SEM, GWR) to urban housing datasets.  
-Benchmarked model performance, interpreting spatial dependence in property prices.  
+- Applied regression models (OLS, SEM, GWR) to urban housing datasets.  
+- Benchmarked model performance, interpreting spatial dependence in property prices.  
 
-**Climate & Fire Weather Analysis** (UC, 2025)  
+**Environmental & Climate Data Analytics (UC, 2025)**  
 GitHub Repo: (repo coming soon)  
-Processed WRF NetCDF data with xarray to build NZ wind/temperature/rainfall climatologies.  
-Applied **Self-Organizing Maps (SOM)** to evaluate Fire Weather Index extremes (2000–2050).  
-Generated hotspot maps to support disaster planning.  
+- Processed WRF NetCDF datasets (2000–2020, 2030–2050) with Python & xarray.  
+- Applied Self-Organizing Maps (SOM) to analyze Fire Weather Index extremes, generating >90th-percentile hotspot maps for disaster planning.  
 
-**Remote Sensing & Land Cover Classification** (UC, 2025)  
+**Foundations of GIScience (UC, 2025)**  
 GitHub Repo: (repo coming soon)  
-Classified UAV imagery with GEOBIA & SVM.  
-Conducted NDVI-based vegetation monitoring in Google Earth Engine.  
-Applied kriging for environmental data interpolation.  
+- Processed multispectral imagery (ENVI & Erdas) and DEM slope/aspect analysis (ArcGIS).  
+- Conducted land-cover classification mapping using GEOBIA/SVM.  
+
+**Geovisual Analytics (UC, 2025)**  
+GitHub Repo: (repo coming soon)  
+- Designed publication-quality choropleths in ArcGIS Pro & Adobe Illustrator, using ColorBrewer palettes.  
+- Created cartographic layouts (e.g., NZ population change, Political Map of Africa).  
+
+**Spatial Analysis (UC, 2025)**  
+GitHub Repo: (repo coming soon)  
+- Evaluated Kriging models (exponential/gaussian) against IDW baselines with cross-validation.  
+- Computed Moran’s I and LISA maps to assess spatial clustering and policy implications.  
+
 
 ---
 
