@@ -61,5 +61,5 @@
 
 ## 📫 Contact
 - ✉️ Email: [nicole140002@gmail.com](mailto:nicole140002@gmail.com)  
-- 🌐 LinkedIn: (add your link here)  
+- 🌐 LinkedIn:   
 - 📍 Christchurch, New Zealand  
