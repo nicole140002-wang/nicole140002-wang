@@ -25,7 +25,7 @@ GitHub Repo: [github.com/nicole140002-wang/student-housing-accessibility-christc
 - Created suitability maps with multi-criteria analysis, identifying top housing zones (e.g., Jellie Park, Ilam, Fendalton).  
 
 **NZ Deprivation Index Hotspot Mapping (UC, 2025)**  
-GitHub Repo: (repo coming soon)  
+GitHub Repo: [github.com/nicole140002-wang/esda-nz-deprivation]( https://github.com/nicole140002-wang/esda-nz-deprivation)  
 - Computed Moran’s I and LISA maps to analyze socio-economic inequalities in Christchurch & Wellington.  
 - Identified spatial clusters to support policy-making and public health insights.  
 
