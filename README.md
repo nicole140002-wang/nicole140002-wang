@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Skills
+### 🔧 Skills
 - **Programming & Tools**: Python (GeoPandas, Rasterio, OSMnx, scikit-learn), R (tidyverse, glmnet, randomForest), SQL, Git, Jupyter  
 - **GIS/RS Platforms**: ArcGIS Pro, QGIS, GRASS GIS, Google Earth Engine, ENVI/ERDAS, FME  
 - **Spatial & Statistical Methods**:  
