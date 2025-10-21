@@ -1,94 +1,65 @@
-# Hi, I'm Wenjuan (Nicole) Wang 👋
+# 👩‍💻 Wenjuan (Nicole) Wang
+
+🎓 Master's student in **Geospatial Data Science** at the University of Canterbury, Christchurch, NZ (Expected Mar 2026)  
+🌍 8+ years as a GIS Engineer in Beijing (C#/.NET, Skyline, 3D GIS)  
+💡 Skilled in **Python, R, ArcGIS, GRASS GIS, Remote Sensing, Spatial Statistics**  
+📊 Passionate about applying geospatial analytics for **urban planning, environmental monitoring, and climate resilience**  
+
+---
+
+## 🔧 Skills
+- **Programming & Tools**: Python (GeoPandas, Rasterio, OSMnx, scikit-learn), R (tidyverse, glmnet, randomForest), SQL, Git, Jupyter  
+- **GIS/RS Platforms**: ArcGIS Pro, QGIS, GRASS GIS, Google Earth Engine, ENVI/ERDAS, FME  
+- **Spatial & Statistical Methods**:  
+  - ESDA (Moran’s I/LISA), Kriging, regression (OLS, GWR, Bayesian CAR)  
+  - Network accessibility analysis, multi-criteria suitability mapping  
+  - Remote sensing classification (GEOBIA/SVM, SAM, CNN transfer learning)  
+- **Cartography**: Map design, ColorBrewer palettes, Adobe Illustrator  
+
+---
+
+## 📌 Selected Projects
+- **[Student Housing Accessibility in Christchurch](https://github.com/nicole140002-wang/student-housing-accessibility-christchurch)** (UC, 2025)  
+  Network-based accessibility model in Python (GeoPandas, OSMnx, NetworkX).  
+  Evaluated 15-min school, 40-min UC, and bus stop walkability.  
+  Produced composite suitability maps, highlighting top housing zones (Jellie Park, Ilam, Fendalton).  
+
+- **NZ Deprivation Index Hotspot Mapping (UC, 2025)**  
+  Computed Moran’s I and LISA maps to analyze socio-economic inequalities in Christchurch & Wellington.  
+  Identified spatial clusters to support policy-making and public health insights.  
+
+- **Housing Price Regression (Python, 2025)**  
+  Applied regression models (OLS, SEM, GWR) to urban housing datasets.  
+  Benchmarked model performance, interpreting spatial dependence in property prices.  
+
+- **Climate & Fire Weather Analysis (UC, 2025)**  
+  Processed WRF NetCDF data with xarray to build NZ wind/temperature/rainfall climatologies.  
+  Applied **Self-Organizing Maps (SOM)** to evaluate Fire Weather Index extremes (2000–2050).  
+  Generated hotspot maps to support disaster planning.  
+
+- **Remote Sensing & Land Cover Classification (UC, 2025)**  
+  Classified UAV imagery with GEOBIA & SVM.  
+  Conducted NDVI-based vegetation monitoring in Google Earth Engine.  
+  Applied kriging for environmental data interpolation.  
+
+---
 
 ## 🎓 Education
-
-**University of Canterbury**, Christchurch, New Zealand  
-*Master of Geospatial Data Science* — *Expected March 2026*  
-- GPA: **8.25 / 9.0**  
-- Relevant Coursework:  
-  - Spatial Analysis (A+)  
-  - Geovisual Analytics (A+)  
-  - Foundations of Geospatial Data Science (A+)  
-  - Big Data (B+)  
-  - Data Mining (In Progress)  
-  - Advanced Methods in Geospatial Data Science (In Progress)  
-  - Environmental & Climate Data Analytics (In Progress)  
-  - Geospatial Data Science Research (In Progress)  
+- **Master of Geospatial Data Science**, University of Canterbury, NZ — *Expected Mar 2026* (GPA: 8.25/9.0)  
+- **MSc in Cartography & GIS**, Northwest University, China — *Jun 2012*  
+- **BSc in GIS**, Northwest University, China — *Jun 2009*  
 
 ---
 
-**Northwest University**, Xi’an, China  
-*Master of Science in Cartography & Geographic Information System* — *June 2012*  
-- Capstone Thesis Project: *Research on Multi-scale Landscape Pattern Extraction Method Based on HJ-1A Satellite Hyperspectral Image*  
+## 💼 Experience
+- **GIS Engineer, Gvitech Technologies (2013–2020, Beijing, China)**  
+  Developed CityMaker SDK utilities in C#/.NET; presales demos; user documentation.  
+- **GIS Engineer, Eastdawn Corporation (2012–2013, Beijing, China)**  
+  Supported Skyline 3D GIS deployments and workflow integration.  
 
 ---
 
-**Northwest University**, Xi’an, China  
-*Bachelor of Science in Geographic Information System* — *June 2009*  
-- GPA: **3.46 / 4.0**
-
----
-
-## 🔧 Skills & Tools
-- **Programming**: Python (pandas, GeoPandas, Shapely, Rasterio, scikit-learn), R (tidyverse, glmnet, randomForest), SQL  
-- **GIS/RS Platforms**: ArcGIS Pro, GRASS GIS, QGIS, Google Earth Engine, FME, ENVI  
-- **Analytics**: Spatial regression, GWR, kriging, ESDA, suitability mapping, ML (SVM, RF, CNN/transfer learning)  
-- **Climate/EO**: WRF/NetCDF analysis (xarray), Self-Organizing Maps (SOM), DEM/DSM processing  
-- **Cartography**: Projections, classification, typography, map design with ColorBrewer, Adobe Illustrator  
-- **Other**: Git/GitHub, Bash, Jupyter, Conda, Optuna  
-
----
-
-## 📌 Experience & Projects
-
-### 🏘 Christchurch Student Housing Walk-Accessibility (2025)
-- Built a **network-based walk accessibility model** using Python/Jupyter (GeoPandas, OSMnx, NetworkX).
-- Generated travel-time isochrones (to UC, schools, bus stops) and a composite **Housing Suitability map**.
-- Delivered reproducible notebooks: data harmonisation → network analysis → overlay → maps → stats → export.
-- GitHub: [student-housing-accessibility-christchurch](https://github.com/nicole140002-wang/student-housing-accessibility-christchurch)
-
----
-
-### 🌲 Foundations of GIScience (GISC401, 2025)
-- **Cass field campaign**: GPS cleaning & travel behaviour analysis; drone imagery classification (GEOBIA + SVM).  
-- **Ski-resort siting**: Raster suitability mapping with DEM & distance-to-road rasters.  
-- **School exposure**: Built buffers & nearest-distance metrics to assess school exposure to retailers.  
-- **Ames Housing (Python)**: EDA, regression models, RainCloud plots.  
-
----
-
-### 🌍 Spatial Analysis (GISC404/STAT450, 2025)
-- Computed **Moran’s I/LISA** for NZ deprivation data; mapped Christchurch vs Wellington disparities.  
-- Benchmarked **spatial regression models** (OLS vs SAR/SEM/Spatial Error, GWR).  
-- Applied **Kriging & variogram modeling** with cross-validation error metrics.  
-- Compared cluster detection between **GRASS GIS & SaTScan**.  
-
----
-
-### 🌦 Environmental & Climate Data Analytics (GISC405, 2025)
-- Built pipelines to process **WRF NetCDF climate data** with xarray.  
-- Implemented functions to generate **wind climatologies & rainfall maps**.  
-- Applied **Self-Organizing Maps (SOM)** for Fire Weather Index extremes & future climate projections (CCAM).  
-
----
-
-### 📊 Big Data (STAT448, 2025)
-- Applied **regularized regression (Ridge/LASSO/Elastic Net)**, SVM, Random Forest, and Boosting.  
-- Built **CNN/transfer learning models** with Keras.  
-- Explored **vector similarity search** for geospatial feature matching.  
-
----
-
-## 💼 Previous Experience
-- **GIS Engineer, Gvitech Technologies (2013–2020)** – Developed C#/.NET CityMaker SDK utilities, presales demos, and user guides.  
-- **GIS Engineer, Eastdawn Corporation (2012–2013)** – Supported Skyline deployments and 3D GIS workflows.  
-
----
-
-## 📫 Connect
-- ✉️ Email: nicole140002@gmail.com  
+## 📫 Contact
+- ✉️ Email: [nicole140002@gmail.com](mailto:nicole140002@gmail.com)  
+- 🌐 LinkedIn: (add your link here)  
 - 📍 Christchurch, New Zealand  
-
----
-
-⭐️ *Pinned Repos*: (to be added once project repos are created, e.g., “River Delineation with LiDAR DEM”, “Habitat Suitability Mapping”)  
